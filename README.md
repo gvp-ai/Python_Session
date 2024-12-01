@@ -5,25 +5,31 @@ Welcome to the Python Fundamentals Notebook repository! This project is designed
 🌟 Topics Covered
 
 1. Introduction to Python
+
 What is Python?
 Python’s popularity and use cases
 Setting up your Python environment
 2. Integrated Development Environments (IDEs)
+
 What are IDEs?
 Popular IDEs for Python (e.g., PyCharm, Jupyter Notebook, VS Code)
 Tips for choosing the right IDE for your needs
 3. Python Versions
+
 Key differences between Python 2 and Python 3
 Why Python 3 is the future
 4. Control Flow Statements
+
 if, elif, and else
 Loops: for, while
 Break, continue, and pass statements
 5. Functions
+
 Defining and calling functions
 Arguments and return values
 Lambda (anonymous) functions
 6. Data Structures
+
 Lists
 Creation, indexing, slicing, and methods
 Tuples
@@ -34,10 +40,14 @@ Dictionaries
 Key-value pairs and dictionary methods
 Strings
 String manipulation and methods
+
 💻 Getting Started
+
 Prerequisites
+
 Python installed on your system (preferably Python 3.10 or higher)
 Basic understanding of programming concepts (helpful but not required)
+
 Clone the Repository
 bash
 Copy code
@@ -52,6 +62,7 @@ Launch the notebook:
 bash
 Copy code
 jupyter notebook
+
 🎯 Who is this for?
 Beginners: Learn Python step by step with examples and practice.
 Intermediate Programmers: Brush up on Python fundamentals.
