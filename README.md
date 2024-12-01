@@ -64,22 +64,33 @@ Copy code
 jupyter notebook
 
 🎯 Who is this for?
+
 Beginners: Learn Python step by step with examples and practice.
+
 Intermediate Programmers: Brush up on Python fundamentals.
+
 Educators: Use this notebook as a teaching resource.
+
 📚 Resources and References
+
 Official Python Documentation
 Python for Beginners
+
 🙌 Contributing
+
 Have suggestions or found a bug? Contributions are welcome!
 
 Fork the repository
+
 Create a feature branch: git checkout -b feature-name
 Commit your changes: git commit -m 'Add some feature'
 Push to the branch: git push origin feature-name
 Open a Pull Request
+
 📬 Feedback
+
 If you have any questions or feedback, feel free to reach out via the Issues tab.
 
 ⭐ Acknowledgments
+
 Thank you for exploring this repository! Don’t forget to ⭐ the repo if you find it useful.
