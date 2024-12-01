@@ -1,7 +1,9 @@
 🚀 Python Fundamentals Notebook
+
 Welcome to the Python Fundamentals Notebook repository! This project is designed to provide a hands-on introduction to Python programming. Whether you're a beginner just getting started or looking to brush up on your skills, this notebook will guide you through the essential concepts with examples and explanations.
 
 🌟 Topics Covered
+
 1. Introduction to Python
 What is Python?
 Python’s popularity and use cases
